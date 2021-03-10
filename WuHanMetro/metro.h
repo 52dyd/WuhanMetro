@@ -82,7 +82,7 @@ private:
 	int max_people;
 	int countdown;
 	int speed;
-	bool tf_station; //1 is in, 0 is out
+	bool tf_station;  //1 is in, 0 is out
 	bool live;
 	Stations* now_station;
 	Stations* nxt_station;
